@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Waiter",
   "resources": {
-    "hash": "sha256-FkLcPsu9tBo9vaS6BCIBGM1S7jqSy07ZuQ52Yz3d4tc=",
+    "hash": "sha256-L7lgWHXK2+SIVM8ukR3BofRv4I01o+SgPLVeRUzZ910=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -47,7 +47,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-cT0gUqY2VhbDmvQxpulllXn00KgHu1fkmyjMeQtUTvM=",
       "System.Text.Json.wasm": "sha256-TvVVyet/lF/2DVSnm3oWKHkqBci170d6+QdmgezdBkE=",
       "System.Text.RegularExpressions.wasm": "sha256-s/c6zyvTF5xCf4E/lGObOqyJNwXVbPn4VVPoQVJNNUQ=",
-      "Waiter.wasm": "sha256-qvcmL/sxGgc92OwsGDEBBsVnMCXJOwrMTB1m1qQpqto="
+      "Waiter.wasm": "sha256-aE9OxVX/TEnpD1S5Mgk2KnmYRyQx3Xgd79g06m4FT3I="
     }
   },
   "cacheBootResources": true,
