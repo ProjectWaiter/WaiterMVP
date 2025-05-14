@@ -7139,7 +7139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 20:20:02 GMT"
+          "Value": "Wed, 14 May 2025 20:28:38 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7190,7 +7190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 20:20:02 GMT"
+          "Value": "Wed, 14 May 2025 20:28:38 GMT"
         },
         {
           "Name": "Vary",
@@ -7245,7 +7245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 20:20:02 GMT"
+          "Value": "Wed, 14 May 2025 20:28:38 GMT"
         },
         {
           "Name": "Vary",
@@ -7290,7 +7290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 20:20:02 GMT"
+          "Value": "Wed, 14 May 2025 20:28:38 GMT"
         },
         {
           "Name": "Vary",
@@ -7335,7 +7335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 20:20:02 GMT"
+          "Value": "Wed, 14 May 2025 20:28:38 GMT"
         },
         {
           "Name": "Vary",
@@ -7862,61 +7862,6 @@
     },
     {
       "Route": "_framework/dotnet.native.js",
-      "AssetFile": "_framework/dotnet.native.js.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000031759139"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31486"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PVIND1kaNI2iGaIJApZYAFNXXdtoS9mzoDBVSizk9Rs=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 17:34:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.native.js",
       "AssetFile": "_framework/dotnet.native.js.gz",
       "Selectors": [
         {
@@ -7949,6 +7894,61 @@
         {
           "Name": "ETag",
           "Value": "\"u/1GHkvhuy1AxDE/DcZSmt1JwPXfmIxWBY4xQQ2dW/c=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:34:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.native.js",
+      "AssetFile": "_framework/dotnet.native.js.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000031759139"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVIND1kaNI2iGaIJApZYAFNXXdtoS9mzoDBVSizk9Rs=\""
         },
         {
           "Name": "ETag",
@@ -8336,61 +8336,6 @@
     },
     {
       "Route": "_framework/dotnet.runtime.js",
-      "AssetFile": "_framework/dotnet.runtime.js.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000015219310"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "65705"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ug+IHwuS0MUo4r8r7rGfevRvbC20ASrEbiM8bcHQi0A=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 17:34:20 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dotnet.runtime.js",
       "AssetFile": "_framework/dotnet.runtime.js.br",
       "Selectors": [
         {
@@ -8423,6 +8368,61 @@
         {
           "Name": "ETag",
           "Value": "\"B+FU3IyqNHg/Aktzjz+vJ1g/razkvwpuD5+pP408LDE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:34:20 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dotnet.runtime.js",
+      "AssetFile": "_framework/dotnet.runtime.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015219310"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug+IHwuS0MUo4r8r7rGfevRvbC20ASrEbiM8bcHQi0A=\""
         },
         {
           "Name": "ETag",
